@@ -1,4 +1,3 @@
-# Simon Loir
 ## About Me
 Hi, I'm Simon. I'm currently a student at the University of Namur, in Belgium. In my spare time, I'm also the manager of a small computer company. I offer computer repair services as well as software development services. 
 
